@@ -32,5 +32,5 @@ export const GET = async () => {
     });
   }
 
-  return NextResponse.redirect("http://localhost:3000");
+  return NextResponse.redirect("https://rent-ease-ecru.vercel.app");
 };
