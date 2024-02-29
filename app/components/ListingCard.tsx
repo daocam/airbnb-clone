@@ -69,7 +69,7 @@ const ListingCard = ({
           {description}
         </p>
         <p className="pt-2 text-muted-foreground">
-          <span className="font-medium text-black">${price}</span> Night
+          <span className="font-medium text-black">${price} CAD</span> night
         </p>
       </Link>
     </div>
